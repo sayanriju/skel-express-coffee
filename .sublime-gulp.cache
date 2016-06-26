@@ -1,0 +1,1 @@
+{"/home/sayan/Code/express-coffee-skel/gulpfile.js":{"sha1":"d7d8bd75ed3e8c84efe0d974cc6b85a382dd1da9","tasks":{"develop":{"name":"develop","dependencies":""},"cssminonsave":{"name":"cssminonsave","dependencies":""},"default":{"name":"default","dependencies":"develop cssminonsave"}}}}

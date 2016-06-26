@@ -1,0 +1,13 @@
+{
+  "name": "express-coffee-skel",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "vue": "~1.0.25",
+    "bootstrap": "~3.3.6"
+  }
+}
